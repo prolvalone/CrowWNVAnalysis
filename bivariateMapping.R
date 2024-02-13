@@ -1,4 +1,4 @@
-
+# This File Creates a bivariate Chloropleth map for all counties of the USA.  It measures Crow Data and WNV data
 library(tidyverse)
 library(biscale)
 library(cowplot)
