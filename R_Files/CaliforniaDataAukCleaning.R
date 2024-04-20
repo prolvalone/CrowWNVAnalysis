@@ -1,3 +1,4 @@
+#This File Utilizes the AUK package from Ebird to clean and join data with the CDC data
 #### Cleaning Data of txt format
 
 library(auk)
