@@ -1,4 +1,4 @@
-
+# This File prepares the data to be used for bivariate mapping and creates a bivariate map using said data
 library(tidyverse)
 library(biscale)
 library(cowplot)
