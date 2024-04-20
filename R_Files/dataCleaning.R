@@ -55,7 +55,6 @@ total_by_county <- total_by_county %>%
 CombinedCountyData <- merge(merged_data, total_by_county, by = "polyname")
 write.csv(CombinedCountyData, "C:/Users/chris/OneDrive/Documents/RProjects/RTutorialProject/data/CombinedCrowData.csv", row.names = FALSE)
 
-#at this pint I messed up, Deleting my old table from Rstudio.  I imported the CSV back in, as CombinedCrowData since I saved it
 
 ##########################################
 #This Section adds the variable for the crow sighting rate
