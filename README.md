@@ -46,9 +46,6 @@ Main tasks:
 ### California Focus: Robin Populations vs. WNV  
 <img src="visuals/robinBivariate.png" alt="Robin vs WNV California" width="600"/>
 
-### Bivariate Legend  
-<img src="visuals/bivariate_legend.png" alt="Bivariate Legend" width="300"/>
-
 ---
 
 ## 📑 Workflow Summary
@@ -76,9 +73,3 @@ Main tasks:
 
 ---
 
-## 🚀 Future Work
-- Expand analysis to more bird species and regions.  
-- Integrate environmental variables (climate, land use, mosquito abundance).  
-- Automate ETL pipeline for handling multi-gigabyte ecological datasets.  
-
----
